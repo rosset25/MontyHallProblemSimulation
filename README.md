@@ -1,4 +1,4 @@
-# MontyHallProblemSimulation
+# Monty Hall Problem Simulation
 
 
 Simple programe to simulate graphically the Monty Hall Problem
